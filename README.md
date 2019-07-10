@@ -32,7 +32,7 @@
    1. 어플리케이션 만들기
       
 ## 참고 자료
-*. 
+
 ## 추천 사이트
 * [Java입문수업(생활코딩)](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck)
 * [이것이 자바다(한빛미디어 유튜브 동영상)](https://www.youtube.com/playlist?list=PLVsNizTWUw7FPokuK8Cmlt72DQEt7hKZu)
