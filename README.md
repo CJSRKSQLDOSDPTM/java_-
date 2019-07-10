@@ -1,11 +1,14 @@
 # 자바 프로그래밍
-#### 학습목표
+### 학습목표
 * 자바 프로그래밍을 위한 개발환경을 설정할 수 있다. 
 * 자바를 이용하여 프로그램의 기본 개념을 이해히고 제어구문을 활용한 프로그램을 작성할 수 있다.
 * 객체지향 프로그래밍의 개념을 이해하고 이를 활용한 프로그램을 작성할 수 있다.
 * 자바 API를 활용한 프로그램, GUI 프로그램, 데이터베이스 연동 프로그램을 작성할 수 있다.
 
-## 강의 노트
+### 교재
+* 자바프로그래밍입문(박종은, 이지퍼블리싱) - [교재소스](https://github.com/easyspubjava/JAVA_LAB), [유튜브 동영상 강의](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
+
+## 강의 내용
 1. 개발환경 설정
    1. [JDK 다운로드 및 설치](https://dev-imaec.tistory.com/9)
    1. [JRE 다운로드 및 설치](https://webnautes.tistory.com/1133)
