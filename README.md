@@ -6,7 +6,7 @@
 * 자바 API를 활용한 프로그램, GUI 프로그램, 데이터베이스 연동 프로그램을 작성할 수 있다.
 
 ### 교재
-* 자바프로그래밍입문(박종은, 이지퍼블리싱) - [교재소스](https://github.com/easyspubjava/JAVA_LAB), [유튜브 동영상 강의](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
+* 자바프로그래밍입문(박종은, 이지퍼블리싱) - [예제코드소스](https://github.com/easyspubjava/JAVA_LAB), [유튜브 동영상 강의](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
 
 ## 강의 내용
 1. 개발환경 설정
