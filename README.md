@@ -35,6 +35,7 @@
 
 ## 추천 사이트
 * [Java입문수업(생활코딩)](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck)
+* [자바 기초프로그래밍강좌(동빈나 유튜브 동영상)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R)
 * [실전자바강좌, 초보부터 개발자 취업까지(인프런 유튜브 동영상) ](https://www.youtube.com/playlist?list=PLpkj8RKr48wYXFtzJdXUo46tmxnj94mjB)
 * [이것이 자바다(한빛미디어 유튜브 동영상)](https://www.youtube.com/playlist?list=PLVsNizTWUw7FPokuK8Cmlt72DQEt7hKZu)
 * [자바 리듬게임 만들기(동빈나 유튜브 동영상)](https://www.youtube.com/watch?v=xs92kqU2YWg&list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR)
