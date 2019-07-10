@@ -34,7 +34,8 @@
    1. 데이터베이스 연결과 활용
    1. 어플리케이션 만들기
       
-## 참고 자료
+## 참고 자료 및 사이트
+* 개인 [삐멜소프트웨어엔지니어 자바] 정리 노트(https://imasoftwareengineer.tistory.com/category/%EC%9E%90%EB%B0%94%28Java%29%20%EA%B0%95%EC%9D%98)
 
 ## 추천 사이트
 * [Java입문수업(생활코딩)](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck)
