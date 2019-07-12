@@ -12,7 +12,7 @@ package chapter04;
 public class A01_IfStatement {
 
 	public static void main(String[] args) {
-		if( 10 > 5) {
+		if( 10 < 5) {
 			System.out.println("조건이 맞았을 때 실행한 문장");
 		}
 		System.out.println("조건과 관계없이 실행하는 문장");
