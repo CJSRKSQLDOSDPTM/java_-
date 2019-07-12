@@ -2,7 +2,7 @@
 프로그래밍 연습문제
 사각형의 가로, 세로 길이를 입력받아 면적을 구하는 프로그램을 작성하시오
 */
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 

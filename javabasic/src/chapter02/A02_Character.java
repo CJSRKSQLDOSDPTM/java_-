@@ -9,7 +9,7 @@
 논리형 : boolean
 */
 
-package chapter2;
+package chapter02;
 
 public class A02_Character {
 

@@ -9,7 +9,7 @@
  * 
  */
 
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 

@@ -6,7 +6,7 @@
       홍길동님, 나이는 30세입니다.
 */      
       
-package chapter2;
+package chapter02;
 
 import java.util.Scanner;
 

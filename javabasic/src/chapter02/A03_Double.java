@@ -4,7 +4,7 @@
   double : 8byte(부호비트 1, 지수부 11, 가수부 52)
 
 */
-package chapter2;
+package chapter02;
 
 public class A03_Double {
 
