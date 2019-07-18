@@ -16,8 +16,17 @@ package chapter04;
 public class EX03_OddEvenSUM {
 
 	public static void main(String[] args) {
-		// 
-
+		// 변수 선언
+		int num=1, oddsum=0, evensum=0;
+		
+		while(num<=100) {
+			if((num % 2) == 0) evensum += num;
+			else oddsum += num;
+			
+			num++;
+		}// end of while
+		
+		System.out.println("Odd Sum:" + oddsum);
+		System.out.println("Even Sum:" + evensum);
 	}
-
 }

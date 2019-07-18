@@ -11,7 +11,12 @@ public class A06_DoWhile {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		int num = 6;
+		do {
+			System.out.println(num);
+			num++;
+		}while(num <= 5);
+		System.out.println("program end.... ");
 	}
 
 }

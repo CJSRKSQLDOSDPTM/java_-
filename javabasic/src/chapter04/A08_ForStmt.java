@@ -19,11 +19,11 @@ package chapter04;
 public class A08_ForStmt {
 
 	public static void main(String[] args) {
-		// num이 1에서 부터 5일때까지 하나씩 증가하면서 출력하는 for문
-		int num; 
-		for(num=1;num<=5;num++) {
-			System.out.println(num);
+		for(int i=1;i<=10;i++) {
+			if(i==8) break;
+			if((i % 2) == 0) continue;
+			System.out.println(i);
 		}
+		System.out.println("terminated ");
 	}
-
 }
