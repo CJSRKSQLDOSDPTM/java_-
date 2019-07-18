@@ -2,7 +2,7 @@
  * 클래스 정의하기
  * [접근제어자] class 클래스이름{
  * 멤버변수;
- * 메서드;
+ * 메서드();
  * }
  * 
  * 예)
@@ -26,14 +26,14 @@ public class A01_defineClass {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Student gildong = new Student();
+		Student obj1 = new Student();
 		Student chunhyang = new Student();
-		gildong.name = "홍길동";
-		gildong.address = "청원구";
+		obj1.name = "홍길동";
+		obj1.address = "청원구";
 		chunhyang.name = "성춘향";
 		chunhyang.address = "상당구";
 		
-		gildong.study();
+		obj1.study();
 		chunhyang.study();
 		
 	}
@@ -44,6 +44,7 @@ class Student{
 	int id;
 	String name;
 	int grade;
+	String dept;
 	String address;
 	
 	public void study() {
