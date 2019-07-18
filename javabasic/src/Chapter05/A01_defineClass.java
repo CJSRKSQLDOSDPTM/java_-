@@ -40,14 +40,3 @@ public class A01_defineClass {
 
 }
 
-class Student{
-	int id;
-	String name;
-	int grade;
-	String dept;
-	String address;
-	
-	public void study() {
-		System.out.println(name + "이 공부한다.");
-	}
-}// end of class Student
