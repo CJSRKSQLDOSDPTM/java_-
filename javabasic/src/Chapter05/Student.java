@@ -2,7 +2,7 @@ package Chapter05;
 
 public class Student{
 	int id;
-	String name;
+	private String name;
 	int grade;
 	String dept;
 	String address;
@@ -26,6 +26,13 @@ public class Student{
 		System.out.println("full parameter 생성자 호출!!");
 	}
 	
+	public void setname(String pname) {
+		name = pname;
+	}
+	
+	public String getname() {
+		return name;
+	}
 	public void study() {
 		System.out.println(name + "이 " + dept + "과를 공부한다.");
 	}
