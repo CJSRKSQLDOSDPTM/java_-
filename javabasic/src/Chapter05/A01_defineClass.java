@@ -28,7 +28,7 @@ public class A01_defineClass {
 		// TODO Auto-generated method stub
 		Student obj1 = new Student();
 		Student chunhyang = new Student();
-		//obj1.name = "홍길동"; 
+		//obj1.name = "홍길동";
 		obj1.setname("홍길동");
 		obj1.address = "청원구";
 		//chunhyang.name = "성춘향";
