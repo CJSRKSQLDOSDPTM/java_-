@@ -28,4 +28,10 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>webbasic</name>
+			<value>file:/D:/webbasic</value>
+		</variable>
+	</variableList>
 </projectDescription>
