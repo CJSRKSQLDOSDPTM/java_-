@@ -2,7 +2,25 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/weka.jar"/>
 	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/classifier4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/deeplearning4j-core-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/deeplearning4j-nlp-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/deeplearning4j-nn-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/deeplearning4j-ui_2.11-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/ensembleLibrary-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/gral-core-0.11.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/javabayes.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/jython-2.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/libsvm.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/LibSVM-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/localOutlierFactor-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/mahout-core-0.9.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/mallet.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/mallet-deps.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/nd4j-api-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/weka.jar"/>
+	<classpathentry kind="lib" path="D:/CodingSchool/Github-javadbclass/java/JavaML/libs/weka-stable-3.8.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

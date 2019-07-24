@@ -1,3 +1,7 @@
+/*
+ * 1. 자바기반 머신러닝 학습을 위한 환경 구축
+ * 2. weka를 설치하고 classifier4j 라이브러리를 이용하여 키워드 유사도를 측정한다.
+ */
 package ch01_data;
 import java.util.ArrayList;
 import java.util.List;
