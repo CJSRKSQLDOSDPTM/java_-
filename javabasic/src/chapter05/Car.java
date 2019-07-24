@@ -1,4 +1,4 @@
-package Chapter05;
+package chapter05;
 
 public class Car {
 	// member 변수, field, 속성

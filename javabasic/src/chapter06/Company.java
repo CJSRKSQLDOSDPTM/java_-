@@ -1,4 +1,4 @@
-package Chapter06;
+package chapter06;
 
 public class Company {
 	// private 생성자를만든다.

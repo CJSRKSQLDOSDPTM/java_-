@@ -2,7 +2,7 @@
  * 클래스의 생성자constructor
  * 
  */
-package Chapter05;
+package chapter05;
 
 public class A02_useClass {
 

@@ -20,7 +20,7 @@
  * 다수의 클래스가 같이 있는 경우 public 클래스는 단 하나이며,
  * public 클래스와 자바 파일의 이름은 동일해야 한다.
  */
-package Chapter05;
+package chapter05;
 
 public class A01_defineClass {
 

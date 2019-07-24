@@ -1,4 +1,4 @@
-package Chapter05;
+package chapter05;
 
 public class InfoHiding {
 	private int id;
