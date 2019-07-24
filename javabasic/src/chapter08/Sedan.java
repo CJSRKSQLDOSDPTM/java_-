@@ -6,8 +6,10 @@ public class Sedan extends Car {
 	public Sedan() {
 		System.out.println("Sedan 클래스 생성자 호출!!");
 	}
+	
 	// 생성자 오버로딩 - 다형성
 	public Sedan(String name) {
+		super("여기요~~~");
 		System.out.println("Sedan 클래스 생성자 호출 with " + name);
 	}
 }
