@@ -24,8 +24,14 @@ public class Customer {
 		return customerName;
 	}
 	
+
 	public int calcPrice(int price) {
 		bonusPoint += price * bonusRatio;
 		return price;
+	}
+	
+	public void showCustomerInfo() {
+		System.out.println(customerName+"님의 등급은 " 
+	             + customerGrade + "이며, 보너스 포인트는 " + bonusPoint + "입니다.");
 	}
 }

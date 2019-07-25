@@ -15,16 +15,22 @@ public class CustomerVIP extends Customer {
 		this.customerGrade = "VIP";
 		this.bonusRatio = 0.05;
 		this.saleRatio = 0.1;
+		this.agentID = agentID;
 		System.out.println("CustomerVIP 생성자 호출!!");
 	}
 	
-	public int getAgentID() {
-		return agentID;
-	}
-
+			
 	@Override
 	public int calcPrice(int price) {
 		bonusPoint += price * bonusRatio;
 		return price - (int)(price * saleRatio);
 	}
+	
+	@Override
+	public void showCustomerInfo() {
+		System.out.println(customerName+"님의 등급은 " 
+	             + customerGrade + "이며, 보너스 포인트는" + bonusPoint + "입니다."
+	             + "담당 상담원 번호는 " + agentID);
+	}
+
 }
