@@ -11,5 +11,4 @@ public class StudentMiddle extends Student {
 	public void study() {
 		System.out.println("중학생이 공부합니다.");
 	}
-	
 }
