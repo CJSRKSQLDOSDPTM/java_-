@@ -20,5 +20,4 @@ public class ThreadsWhyNeed {
 		long end = System.currentTimeMillis();
 		System.out.println("연산시간 : " + (end-start) + "ms");
 	}
-
 }
